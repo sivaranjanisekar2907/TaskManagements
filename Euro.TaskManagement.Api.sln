@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euro.TaskManagement.Api", "Euro.TaskManagament.Api\Euro.TaskManagement.Api.csproj", "{2FA0C5C5-5878-41C0-8BEE-03D83BB77250}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euro.TaskManagement.Tests", "Euro.TaskManagament.Tests\Euro.TaskManagement.Tests.csproj", "{67065BA7-5154-49A2-B5D5-8F07EA85C360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA0C5C5-5878-41C0-8BEE-03D83BB77250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA0C5C5-5878-41C0-8BEE-03D83BB77250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA0C5C5-5878-41C0-8BEE-03D83BB77250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA0C5C5-5878-41C0-8BEE-03D83BB77250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67065BA7-5154-49A2-B5D5-8F07EA85C360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67065BA7-5154-49A2-B5D5-8F07EA85C360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67065BA7-5154-49A2-B5D5-8F07EA85C360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67065BA7-5154-49A2-B5D5-8F07EA85C360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED08E66C-26D2-4C58-A60F-2BF92D4C8B7D}
+	EndGlobalSection
+EndGlobal
