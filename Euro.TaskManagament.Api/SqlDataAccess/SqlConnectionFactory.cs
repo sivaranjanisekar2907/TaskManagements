@@ -23,7 +23,7 @@ namespace Euro.TaskManagement.Api.SqlDataAccess
         /// <returns></returns>
         private Task<string> getConnectionString()
         {
-            return Task.FromResult("Data Source=azpg-nozomi-pf-sqlserver-qa-01.database.windows.net;Initial Catalog=nozomi-pf-stagingdb-qa-01; User Id=pgtpmpfqa;Password=Noz0m!7pM@b7qa;MultipleActiveResultSets=True;");
+            return Task.FromResult("");
 
         }
         public void Dispose()
