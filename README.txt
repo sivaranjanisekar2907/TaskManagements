@@ -7,3 +7,4 @@ Under the name space "Euro.TaskManagement.Api.SqlDataAccess", need to mention th
 Run the code
 
 Apm-Final - Front End
+To run the front end. please install the node modules
